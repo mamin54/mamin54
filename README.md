@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2F80ED&width=500&lines=Hello%2C+I'm+Manan+Amin;Aspiring+Data+Engineer;League+of+Merchants+Creator" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2F80ED&width=600&lines=Hello%2C+I'm+Manan+Amin;Aspiring+Data+Engineer;Stats+%2B+Business+Double+Degree" alt="Typing intro"/>
 </a>
 
 <!-- About / Fun GIF -->
@@ -18,25 +18,46 @@
 - **Statistics & Machine Learning (BMath, University of Waterloo)**  
 - **Entrepreneurship & International Business (BBA, Wilfrid Laurier University)**  
 
-💡 Passionate about **data engineering, analytics, and building systems that scale.**  
+💡 Passionate about **data engineering, analytics, and building systems that scale.**
 
 ---
 
 ### 🔭 What I’m Working On
 - ⚡ Building scalable **ETL pipelines** and **real-time data workflows**  
 - ☁️ Exploring **AWS (S3, Glue, Athena)** for large-scale processing  
-- 🏗️ Developing projects like **League of Merchants** & **Consumer Pulse**  
+- 📊 Shipping small projects to learn faster & iterate in public
 
 ---
 
 ### 🎮 Fun Facts
 - I’ve probably spent more time **warding in League** than attending lectures  
-- I can explain the difference between **ETL & ELT** faster than most people can order coffee  
-- Secretly obsessed with making my README look like a **UI project**  
+- I can explain **ETL vs. ELT** faster than most people can order coffee  
+- Secretly obsessed with making my README look like a **UI project**
 
 ---
-### 🛠️ Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,aws,postgresql,git,github,js,ts,nodejs,react)](https://skillicons.dev)
+
+## 🧰 Tech Stack (Grouped)
+
+### Languages & Runtime
+[![langs](https://skillicons.dev/icons?i=py,js,ts,nodejs)](https://skillicons.dev)
+
+### Databases & Versioning
+[![dbvcs](https://skillicons.dev/icons?i=postgresql,git,github)](https://skillicons.dev)
+
+### Cloud & Platforms
+[![cloud](https://skillicons.dev/icons?i=aws,gcp,apple)](https://skillicons.dev)
+
+### Frontend
+[![fe](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+### Design & 3D
+[![design](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
+
+### AI & Crypto
+[![ai-crypto](https://skillicons.dev/icons?i=openai,coinbase)](https://skillicons.dev)
+
+### Productivity, Docs & Social
+[![prod-social](https://skillicons.dev/icons?i=notion,latex,gmail,discord,instagram,twitter)](https://skillicons.dev)
 
 ---
 
