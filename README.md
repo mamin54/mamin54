@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/A_header_graphic_introduction_image_for_Manan_Amin.png" alt="Manan Amin Banner" />
-</p>
+
 
 # 👋 Hi, I’m Manan Amin  
 
