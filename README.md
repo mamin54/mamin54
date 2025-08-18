@@ -34,6 +34,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="45" height="45" alt="QGIS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="45" height="45" alt="Databricks"/>
 </p>
