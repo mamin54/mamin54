@@ -43,10 +43,10 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/manan-amin/" target="_blank">
+  <a href="https://www.linkedin.com/in/manan-m-amin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mananamin@example.com">
+  <a href="mailto:manan.amin@uwaterloo.ca">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
