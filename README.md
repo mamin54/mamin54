@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2F80ED&width=500&lines=Hello%2C+I'm+Manan+Amin;Aspiring+Data+Engineer;League+of+Merchants+Creator" alt="Typing intro"/>
 </a>
 
-<!-- About / Fun GIF (optional, put one in ./assets/about.gif) -->
+<!-- About / Fun GIF -->
 <div align="center">
   <img src="./assets/about.gif" alt="About Me Terminal GIF" width="600"/>
 </div>
@@ -26,7 +26,13 @@
 - ⚡ Building scalable **ETL pipelines** and **real-time data workflows**  
 - ☁️ Exploring **AWS (S3, Glue, Athena)** for large-scale processing  
 - 🏗️ Developing projects like **League of Merchants** & **Consumer Pulse**  
-- 🎮 Fun fact: I’ve probably spent more time **warding in League** than attending lectures  
+
+---
+
+### 🎮 Fun Facts
+- I’ve probably spent more time **warding in League** than attending lectures  
+- I can explain the difference between **ETL & ELT** faster than most people can order coffee  
+- Secretly obsessed with making my README look like a **UI project**  
 
 ---
 
@@ -36,14 +42,14 @@
 ---
 
 ### 📫 Connect with Me
-<div>
-  <a href="https://www.linkedin.com/in/manan-amin/">
-    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manan-amin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mananamin@example.com">
-    <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Email" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
