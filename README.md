@@ -13,7 +13,7 @@
 
 📫 **Reach me at:** [Email](mailto:manan.amin@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/manan-m-amin/)  
 
-⚡ **Fun fact:** I love building at the intersection of data, tech, and entrepreneurship.  
+🕒 **True fact:** I’ve probably spent more time warding in *League* than attending lectures
 
 ---
 
