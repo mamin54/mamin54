@@ -1,34 +1,57 @@
+<!-- Banner -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=header" alt="header"/>
 
+<!-- Typing Intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2F80ED&width=500&lines=Hello%2C+I'm+Manan+Amin;Aspiring+Data+Engineer;League+of+Merchants+Creator" alt="Typing intro"/>
+</a>
 
-# 👋 Hi, I’m Manan Amin  
-
-🎓 **Aspiring Data Engineer** pursuing a double degree in  
-- Statistics & Machine Learning (BMath, University of Waterloo)  
-- Entrepreneurship & International Business (BBA, Wilfrid Laurier University)  
-
-🚀 **What I’m working on:**  
-- ⚡ Building scalable ETL pipelines and real-time data workflows  
-- ☁️ Exploring AWS (S3, Glue, Athena) for large-scale data processing  
-- 📊 Developing projects like *League of Merchants* & *Consumer Pulse*  
-
-📫 **Reach me at:** [Email](mailto:manan.amin@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/manan-m-amin/)  
-
-🕒 **True fact:** I’ve probably spent more time warding in *League* than attending lectures
+<!-- About / Fun GIF (optional, put one in ./assets/about.gif) -->
+<div align="center">
+  <img src="./assets/about.gif" alt="About Me Terminal GIF" width="600"/>
+</div>
 
 ---
 
-### 🔧 Languages & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" width="45" height="45" alt="Racket"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="45" height="45" alt="QGIS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="45" height="45" alt="Databricks"/>
-</p>
+### 🚀 About Me
+🎓 Double Degree Student:  
+- **Statistics & Machine Learning (BMath, University of Waterloo)**  
+- **Entrepreneurship & International Business (BBA, Wilfrid Laurier University)**  
+
+💡 Passionate about **data engineering, analytics, and building systems that scale.**  
+
+---
+
+### 🔭 What I’m Working On
+- ⚡ Building scalable **ETL pipelines** and **real-time data workflows**  
+- ☁️ Exploring **AWS (S3, Glue, Athena)** for large-scale processing  
+- 🏗️ Developing projects like **League of Merchants** & **Consumer Pulse**  
+- 🎮 Fun fact: I’ve probably spent more time **warding in League** than attending lectures  
+
+---
+
+### 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,aws,postgresql,streamlit,git,github,qgis,js,ts,nodejs,react)](https://skillicons.dev)
+
+---
+
+### 📫 Connect with Me
+<div>
+  <a href="https://www.linkedin.com/in/manan-amin/">
+    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+  </a>
+  <a href="mailto:mananamin@example.com">
+    <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Email" width="35" height="35"/>
+  </a>
+</div>
+
+---
+
+### 📄 Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/YOUR_RESUME_LINK" download>Download my resume</a>
+
+---
+
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer" alt="footer"/>
