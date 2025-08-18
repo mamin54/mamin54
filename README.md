@@ -55,7 +55,7 @@
 
 ### 📄 Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/YOUR_RESUME_LINK" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1wpalHu2N72lfjpLoHUagaiPYq5-fXYXS/view?usp=sharing" target="_blank">📄 Download my resume</a>
 
 ---
 
