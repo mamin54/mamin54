@@ -9,7 +9,7 @@
 - ☁️ Exploring AWS (S3, Glue, Athena) for large-scale data processing  
 - 📊 Developing data-driven projects like *League of Merchants* & *Consumer Pulse*  
 
-📫 **Reach me at:** [Email](mailto:manan.amin@uwaterloo.ca) | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manan-m-amin/))  
+📫 **Reach me at:** [Email](mailto:manan.amin@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/manan-m-amin/))  
 
 ⚡ **Fun fact:** I love building at the intersection of data, tech, and entrepreneurship.  
 
