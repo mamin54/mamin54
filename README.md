@@ -17,8 +17,6 @@
 
 ---
 
-![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan-amin&show_icons=true&theme=radical)
-
 ---
 
 ### 🔧 Languages & Tools  
