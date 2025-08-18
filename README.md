@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Manan Amin  
 
-<!--
-**mamin54/mamin54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspiring Data Engineer** pursuing a double degree in  
+- Statistics & Machine Learning (BMath, University of Waterloo)  
+- Entrepreneurship & International Business (BBA, Wilfrid Laurier University)  
 
-Here are some ideas to get you started:
+🚀 **What I’m working on:**  
+- ⚡ Building scalable ETL pipelines and real-time data workflows  
+- ☁️ Exploring AWS (S3, Glue, Athena) for large-scale data processing  
+- 📊 Developing data-driven projects like *League of Merchants* & *Consumer Pulse*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:** [Email](mailto:youremail@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+⚡ **Fun fact:** I love building at the intersection of data, tech, and entrepreneurship.  
+
+---
+
+![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan-amin&show_icons=true&theme=radical)
+
+### 🔧 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
+</p>
