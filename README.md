@@ -36,28 +36,16 @@
 
 ---
 
-## 🧰 Tech Stack (Grouped)
+## 🧰 Tech Stack
 
-### Languages & Runtime
-[![langs](https://skillicons.dev/icons?i=py,js,ts,nodejs)](https://skillicons.dev)
+### 💻 Languages & Frameworks
+[![langs](https://skillicons.dev/icons?i=py,js,ts,nodejs,react)](https://skillicons.dev)
 
-### Databases & Versioning
-[![dbvcs](https://skillicons.dev/icons?i=postgresql,git,github)](https://skillicons.dev)
+### 🗄️ Databases, Cloud & Platforms
+[![dbcloud](https://skillicons.dev/icons?i=postgresql,git,github,aws,gcp,apple)](https://skillicons.dev)
 
-### Cloud & Platforms
-[![cloud](https://skillicons.dev/icons?i=aws,gcp,apple)](https://skillicons.dev)
-
-### Frontend
-[![fe](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-### Design & 3D
-[![design](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
-
-### AI & Crypto
-[![ai-crypto](https://skillicons.dev/icons?i=openai,coinbase)](https://skillicons.dev)
-
-### Productivity, Docs & Social
-[![prod-social](https://skillicons.dev/icons?i=notion,latex,gmail,discord,instagram,twitter)](https://skillicons.dev)
+### 🎨 Design, Productivity & Social
+[![design-prod](https://skillicons.dev/icons?i=figma,blender,notion,latex,gmail,discord,instagram,twitter,openai,coinbase)](https://skillicons.dev)
 
 ---
 
