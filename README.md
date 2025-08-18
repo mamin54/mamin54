@@ -35,9 +35,8 @@
 - Secretly obsessed with making my README look like a **UI project**  
 
 ---
-
 ### 🛠️ Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,aws,postgresql,streamlit,git,github,qgis,js,ts,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,postgresql,git,github,js,ts,nodejs,react)](https://skillicons.dev)
 
 ---
 
