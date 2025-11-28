@@ -61,11 +61,5 @@
 
 ---
 
-### 📄 Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1wpalHu2N72lfjpLoHUagaiPYq5-fXYXS/view?usp=sharing" target="_blank">📄 Download my resume</a>
-
----
-
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer" alt="footer"/>
