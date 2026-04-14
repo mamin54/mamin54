@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2F80ED&width=600&lines=Hello%2C+I'm+Manan+Amin;Aspiring+Data+Engineer;Stats+%2B+Business+Double+Degree" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2F80ED&width=600&lines=Hello%2C+I'm+Manan;Aspiring+Data+Engineer;Stats+%2B+Business+Double+Degree" alt="Typing intro"/>
 </a>
 
 <!-- About / Fun GIF -->
